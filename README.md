@@ -1,5 +1,5 @@
 # IoT Perusteet
-Tässä on koottuna IoT-perusteet kurssilla tehtyjä asioita. Harjoitukset on tehty wokwi-simulaattoorilla käyttäen Raspberry Pi Pico:n Micropython Pico W:tä. Kerätyt arvot on kerätty DHT22-anturin avulla ja data on lähetetty ThingSpeakin API:n kautta pilveen.
+Tässä on koottuna IoT-perusteet kurssilla tehtyjä asioita. Harjoitukset on tehty wokwi-simulaattorilla käyttäen Raspberry Pi Pico:n Micropython Pico W:tä. Arvot on kerätty DHT22-anturin avulla ja data on lähetetty ThingSpeakin API:n kautta pilveen.
 
 ## Luento 1
 - Blink the led
