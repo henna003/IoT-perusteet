@@ -3,13 +3,13 @@ Tässä on koottuna IoT-perusteet kurssilla tehtyjä asioita. Harjoitukset on te
 
 ## Luento 1
 - Blink the led
-      - Kun painetaan nappia, led-valo syttyy. Muuten led-valo on sammunut.
+  - Kun painetaan nappia, led-valo syttyy. Muuten led-valo on sammunut.
 - Interrupt
-      - Valo syttyy kun pico laitetaan päälle, satunnaisen ajan kuluttua valo            sammuu. Jonka jälkeen käyttäjä reagoi mahdollisimman nopeasti nappia             painamalla ja näkee kuinka kauan oli reagointiaika millisekunneissa.
+  - Valo syttyy kun pico laitetaan päälle, satunnaisen ajan kuluttua valo            sammuu. Jonka jälkeen käyttäjä reagoi mahdollisimman nopeasti nappia             painamalla ja näkee kuinka kauan oli reagointiaika millisekunneissa.
 - Traffic lights
-      - Liikennevalot, eli punainen, keltainen ja vihreä led-valo syttyvät               vuorotellen. Kun painetaan nappia, vihreä valo pysyy päällä niin kauan           kun nappi on pohjassa.
+  - Liikennevalot, eli punainen, keltainen ja vihreä led-valo syttyvät               vuorotellen. Kun painetaan nappia, vihreä valo pysyy päällä niin kauan           kun nappi on pohjassa.
 - Weather Station
-      - DHT22-anturin avulla mitataan lämpötilaa.
+  - DHT22-anturin avulla mitataan lämpötilaa.
 
 ## Luento2
 - Lcd-näyttö
